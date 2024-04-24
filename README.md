@@ -35,6 +35,8 @@ What perfect store data points has what impact on sales? Where should we invest 
    - Volume
    - Service Frequency 
 
+Data pulled via a query from our Snowflake data lake.
+
 #### Methodology
 * EDA
 * Linear Regression
