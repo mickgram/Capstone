@@ -1,18 +1,16 @@
-### Capstone
-
-### Perfect Store Impact on Sales
+### Capstone: Perfect Store Impact on Sales
 
 **Mick Gram**
 
-# Disclamer:
+#### Disclamer
 - Periods are not shared to maintain confidentiality.
-- The location of the stores, name of key accounts, distributors etc are not shared to maintain confidentiality.
+- The location of the stores, names of key accounts, distributors etc are not shared to maintain confidentiality. 
 
 #### Executive summary
 
-"Perfectd Store" is a critical part of winning in Retail for any FMCG company. In the US the stores are very competitive with all brands fighting over shelf space, cooler placements, cold-cash, register placements etc.
+Perfect Store is a critical part of winning in Retail for any FMCG company. In the US the stores are very competitive with all brands fighting over shelf space, cooler placements, cold-cash, strike zone, brand messaging etc.
 
-Most large retailers perform yearly audits and collect a range of perfect perfect store data points but as far as I know there has never been proven a true relationship between these and what actually drives sales. It appears to be very subjective what data points that actually has an impact, and not least what the impact is.
+Most large retailers perform yearly audits and collect a range of perfect store data points but as far as I know there has never been proven a true relationship between these and what actually drives sales. It appears to be very subjective what data points that actually has an impact, and not least what the impact is.
 
 This research will use actual data collected from audits as well as sales data to revisit what actually has what impact.
 
@@ -20,20 +18,20 @@ This research will use actual data collected from audits as well as sales data t
 
 FMCG companies have limited spend and resources for Perfect Store activities. The ability to make the right decisions can have an actualy impact on sales and hence be the difference between being profitable or caring a loss. Knowing how the cost of each activity can impact sales is critical. E.g does a it pay off to place a $500 cooler, focusing on adding more shelf space or improve brand messaging.
 
-#### Research Questionx`
+#### Research Question
 
 What perfect store data points has what impact on sales? Where should we invest more, and where should we invest less according to what has an impact on sales.
 
 #### Data Sources
 
-1) 1047 audits:
+* 1047 audits:
    - Voids and Core SKU 
    - Shelf space
    - Cooler placement
    - POS and brand communication
    - Strike zone
    - Competitor data
-2) Sales data:
+* Sales data:
    - Volume
    - Service Frequency 
 
@@ -57,7 +55,7 @@ Changing the current Perfect Store approach would be ground breaking so I sugges
 * Get input from SVP of Marketing.
 * Create a focus group with customers to test some of the results.
 * Propose a test market for changed approach, and follow up with new audits and monitor changes in sales. Do it in parallel with another market that continues exising perfect store focus.
-* Evaluate results, and if successful, get LT (CEO,CFO,CCO) alignment on next step for wider implementation.
+* Evaluate results, and if successful, get LT (CEO,CFO,CCO,CMO) alignment on next step for wider implementation.
 
 #### Outline of project
 
