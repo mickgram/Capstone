@@ -29,13 +29,13 @@ What perfect store data points has what impact on sales? Where should we invest 
    - Shelf space
    - Cooler placement
    - POS and brand communication
-   - Strike zone
+   - Strike zone 
    - Competitor data
 * Sales data:
    - Volume
    - Service Frequency 
 
-Data pulled via a query from our Snowflake data lake.
+Data pulled via a query from our Snowflake data lake. Data points are explained in detail in notebook.
 
 #### Methodology
 * EDA
@@ -45,7 +45,8 @@ Data pulled via a query from our Snowflake data lake.
 * Hyperparameter tuning and cross-validation of models.
 
 #### Results
-What did your research find?
+[coming, looks like Ridge is doing best, but may add RandomForest based on input in 2nd 1:1 call]
+[will also quantify also impact in actual volume for each parameter in results]
 
 #### Next steps
 
