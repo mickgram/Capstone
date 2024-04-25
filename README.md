@@ -10,7 +10,7 @@
 
 Perfect Store is a critical part of winning in Retail for any FMCG company. In the US the stores are very competitive with all brands fighting over shelf space, cooler placements, cold-cash, strike zone, brand messaging etc.
 
-Most large retailers perform yearly audits and collect a range of perfect store data points but as far as I know there has never been proven a true relationship between these and what actually drives sales. It appears to be very subjective what data points that actually has an impact, and not least what the impact is.
+Most large retailers perform yearly audits and collect a range of perfect store data points, but to my knowledge, there has never been proven a true relationship between these and what actually drives sales. It appears to be very subjective what data points that actually has an impact, and not least what the impact is.
 
 This research will use actual data collected from audits as well as sales data to revisit what actually has what impact.
 
@@ -45,8 +45,17 @@ Data pulled via a query from our Snowflake data lake. Data points are explained 
 * Hyperparameter tuning and cross-validation of models.
 
 #### Results
-[coming, looks like Ridge is doing best, but may add RandomForest based on input in 2nd 1:1 call]
-[will also quantify also impact in actual volume for each parameter in results]
+
+Through rigorous analysis using Linear Regression, Ridge, and Lasso models, our investigation aimed to pinpoint which perfect store elements substantially impact sales volume. Here are the insights drawn from each model:
+
+* Linear Regression** provided a baseline with an MSE of 0.2771 and an R² of 0.5677, and did well in cross validation with Mean R2 of 0.5775 and std R2 of 0.0422
+* Ridge, with an optimal alpha of 100, offered a refined view with an improved MSE of 0.2739 and an R² of 0.5728, and also did best in cross-validation with a slight higher Mean R2 of 0.5887 and also tiny bit lower and better std R2 of 0.0410.
+* Lasso performed the really well, only having alpha of 0.010, with a MSE of 0.2739 and an R² of 0.5728. Cross-validation was not as good though with a way lower mean R2 of 0.1596 despite having a bit lower std R2.
+* Scaling didn't work well generally, and only hot-encoding was used.
+
+Comparing these models, Ridge stood out and is the chosen model.
+
+These findings suggest a potential shift in resource allocation towards [specific strategies] to enhance sales performance effectively. Further details and implications of these results are discussed below.
 
 #### Next steps
 
