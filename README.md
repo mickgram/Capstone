@@ -3,8 +3,10 @@
 **Mick Gram**
 
 #### Disclamer
-- Periods are not shared to maintain confidentiality.
-- The location of the stores, names of key accounts, distributors etc are not shared to maintain confidentiality. 
+
+* Restricted Use: This data is not publicly available and may not be used for any purpose without explicit written permission from the author. No part of the findings, data, or any derived information may be disclosed, disseminated, or shared without prior written approval from the author.
+* Confidentiality: The names of key accounts, store locations, distributors, and relevant periods have been withheld to ensure confidentiality. The data shared herein is proprietary and confidential.
+* Contact Information: For permissions or inquiries regarding this data, please contact the author via email at mickgram@hotmail.com.
 
 #### Executive summary
 
@@ -33,8 +35,7 @@ What perfect store data points has what impact on sales? Where should we invest 
    - Competitor data
 * Sales data:
    - Volume
-   - Service Frequency 
-
+  
 Data pulled via a query from our Snowflake data lake. Data points are explained in detail in notebook.
 
 #### Methodology
