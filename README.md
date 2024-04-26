@@ -74,11 +74,6 @@ Changing the current Perfect Store approach would be ground breaking so I sugges
 * Propose a test market for changed approach, and follow up with new audits and monitor changes in sales. Do it in parallel with another market that continues exising perfect store focus.
 * Evaluate results, and if successful, get LT (CEO,CFO,CCO,CMO) alignment on next step for wider implementation.
 
-#### Outline of project
-
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
 
 
 ##### Contact and Further Information
