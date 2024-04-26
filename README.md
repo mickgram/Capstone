@@ -1,8 +1,8 @@
 ### Capstone: Perfect Store Impact on Sales
 
 By Mick Gram:
-Notebook:
-Data: 
+Notebook: https://github.com/mickgram/Capstone/tree/main/cap_energy-042624.ipynb
+Data: https://github.com/mickgram/Capstone/tree/main/Data
 
 #### Disclaimer
 
