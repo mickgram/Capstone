@@ -2,7 +2,7 @@
 
 **Mick Gram**
 
-#### Disclamer
+#### Disclaimer
 
 * Restricted Use: This data is not publicly available and may not be used for any purpose without explicit written permission from the author. No part of the findings, data, or any derived information may be disclosed, disseminated, or shared without prior written approval from the author.
 * Confidentiality: The names of key accounts, store locations, distributors, and relevant periods have been withheld to ensure confidentiality. The data shared herein is proprietary and confidential.
@@ -42,27 +42,29 @@ Data pulled via a query from our Snowflake data lake. Data points are explained 
 * EDA
 * Linear Regression
 * Ridge and Lasso
-* RandomForest ???
+* RandomForest or others ???
 * Hyperparameter tuning and cross-validation of models.
+* Should I add overfitting discussion?
+* Should I add feature importance?
 
 #### Results
 
 Through rigorous analysis using Linear Regression, Ridge, and Lasso models, our investigation aimed to pinpoint which perfect store elements substantially impact sales volume. Here are the insights drawn from each model:
 
-* Linear Regression** provided a baseline with an MSE of 0.2771 and an R² of 0.5677, and did well in cross validation with Mean R2 of 0.5775 and std R2 of 0.0422
-* Ridge, with an optimal alpha of 100, offered a refined view with an improved MSE of 0.2739 and an R² of 0.5728, and also did best in cross-validation with a slight higher Mean R2 of 0.5887 and also tiny bit lower and better std R2 of 0.0410.
-* Lasso performed the really well, only having alpha of 0.010, with a MSE of 0.2739 and an R² of 0.5728. Cross-validation was not as good though with a way lower mean R2 of 0.1596 despite having a bit lower std R2.
-* Scaling didn't work well generally, and only hot-encoding was used.
+* Linear Regression** provided a baseline with an MSE of 0.2996 and an R² of 0.5327, and did well in cross validation with Mean R2 of 0.5775 and std R2 of 0.0422
+* Ridge, with an optimal alpha of 100, offered a refined view with a slightly improved MSE of 0.2988 and R² of 0.5339, and also did well in cross-validation with a slight higher Mean R2 of 0.5596 but tiny bit lower and better std R2 of 0.0265.
+* Lasso did well, but didn't offer any additional value, only having alpha of 0.010, with a MSE of 0.2988 and an R² of 0.5339. Cross-validation was not as good though with a way lower Mean R2 of 0.2864 despite having a bit lower std R2 of 0.0632.
 
-Comparing these models, Ridge stood out and is the chosen model.
+Comparing these models, Ridge stood out and is the chosen model. Closely followed by basic linear regression.
 
-These findings suggest a potential shift in resource allocation towards [specific strategies] to enhance sales performance effectively. Further details and implications of these results are discussed below.
+These findings suggest a potential shift in resource allocation towards best performance to enhance sales performance effectively. The visibility into the coefficients and their size for different data point, is enough to at least discuss a change in approach for perfect store. 
 
 #### Next steps
 
 Changing the current Perfect Store approach would be ground breaking so I suggest the following:
 
-* Get a pier-review from our internal DS Team to validate results, and maybe add improvements.
+* Get a peer review from our internal DS Team to validate results, and maybe add improvements.
+* Document costs of Perfect Store activities and build cost/benefit analyis related to volume.
 * Share results with SVP of Distribution.
 * Discuss results with SVP of Trade Finance that manages/allocates POS spend.
 * Get input from SVP of Marketing.
