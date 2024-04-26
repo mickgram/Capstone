@@ -65,7 +65,7 @@ These findings suggest a potential shift in resource allocation towards best per
 
 Changing the current Perfect Store approach would be ground breaking so I suggest the following:
 
-* Get a peer review from our internal DS Team to validate results, and maybe add improvements.
+* Get a peer review from our internal DS Team.
 * Document costs of Perfect Store activities and build cost/benefit analyis related to volume.
 * Share results with SVP of Distribution.
 * Discuss results with SVP of Trade Finance that manages/allocates POS spend.
