@@ -24,7 +24,7 @@ FMCG companies have limited spend and resources for Perfect Store activities. Th
 
 #### Research Question
 
-What perfect store data points has what impact on sales? Where should we invest more, and where should we invest less according to what has an impact on sales.
+What perfect store data points has what impact on sales? 
 
 #### Data Sources
 
