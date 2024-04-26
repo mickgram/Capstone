@@ -1,6 +1,8 @@
 ### Capstone: Perfect Store Impact on Sales
 
-**Mick Gram**
+By Mick Gram:
+Notebook:
+Data: 
 
 #### Disclaimer
 
