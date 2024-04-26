@@ -53,8 +53,8 @@ Data pulled via a query from our Snowflake data lake. Data points are explained 
 
 Through rigorous analysis using Linear Regression, Ridge, and Lasso models, our investigation aimed to pinpoint which perfect store elements substantially impact sales volume. Here are the insights drawn from each model:
 
-* Linear Regression** provided a baseline with an MSE of 0.2996 and an R² of 0.5327, and did well in cross validation with Mean R2 of 0.5775 and std R2 of 0.0422
-* Ridge, with an optimal alpha of 100, offered a refined view with a slightly improved MSE of 0.2988 and R² of 0.5339, and also did well in cross-validation with a slight higher Mean R2 of 0.5596 but tiny bit lower and better std R2 of 0.0265.
+* Linear Regression** provided a baseline with an MSE of 0.2996 and an R² of 0.5327, and did well in cross validation with Mean R2 of 0.5596 and std R2 of 0.0246
+* Ridge, with an optimal alpha of 100, offered a refined view with a slightly improved MSE of 0.2988 and R² of 0.5339, and also did well in cross-validation with same Mean R2 of 0.5596 but tiny bit lower and better std R2 of 0.0265.
 * Lasso did well, but didn't offer any additional value, only having alpha of 0.010, with a MSE of 0.2988 and an R² of 0.5339. Cross-validation was not as good though with a way lower Mean R2 of 0.2864 despite having a bit lower std R2 of 0.0632.
 
 Comparing these models, Ridge stood out and is the chosen model. Closely followed by basic linear regression.
