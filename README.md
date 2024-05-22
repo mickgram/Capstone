@@ -26,7 +26,7 @@ Perfect Store is crucial for winning in retail for any FMCG company. In the comp
 - Is there a relationship between perfect store factors and sales volume?
 - WWhich perfect store data points have a significant impact on sales? 
 - How much does each of these data points impact sales volume?
-- 
+  
 #### Findings:
 - There is a significant relationship between perfect store factors and sales volume. The research produced a model with 86.77% accuracy in explaining which perfect store data points impact sales volume and by how much.
 - The impact of data points differs significantly from traditional beliefs.
