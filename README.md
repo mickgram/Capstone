@@ -3,8 +3,8 @@
 Author: Mick Gram, 5/22/2024
 
 * Readme: [https://github.com/mickgram/Capstone/blob/main/README.md
-* Notebook: https://github.com/mickgram/Capstone/blob/main/cenergy.ipynb
-* Data: https://github.com/mickgram/Capstone/tree/main/Data/energy.csv
+* Notebook: https://github.com/mickgram/Capstone/blob/main/energy.ipynb
+* Data: https://github.com/mickgram/Capstone/tree/main/data/energy.csv
 
 #### Disclaimer
 
