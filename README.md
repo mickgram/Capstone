@@ -44,6 +44,7 @@ Perfect Store is crucial for winning in retail for any FMCG company. In the comp
 * Sales data from stores:
    - Packsize distribution
    - Visit Frequency
+   - Volume
   
 #### Methodology
 * Data cleansing and quality control.
