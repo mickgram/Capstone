@@ -24,7 +24,7 @@ Perfect Store is crucial for winning in retail for any FMCG company. In the comp
 #### Business Questions Asked
 
 - Is there a relationship between perfect store factors and sales volume?
-- WWhich perfect store data points have a significant impact on sales? 
+- Which perfect store data points have a significant impact on sales? 
 - How much does each of these data points impact sales volume?
   
 #### Findings:
