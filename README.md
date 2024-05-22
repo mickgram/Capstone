@@ -1,7 +1,6 @@
 ### Capstone: Perfect Store Impact on Energy Drink Sales Volume in Convenience
 
-Author: Mick Gram
-Presented: 5/22/2024
+Author: Mick Gram, 5/22/2024
 
 * Readme: [https://github.com/mickgram/Capstone/blob/main/README.md
 * Notebook: https://github.com/mickgram/Capstone/blob/main/cenergy.ipynb
