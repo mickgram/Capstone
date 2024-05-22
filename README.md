@@ -67,4 +67,4 @@ To implement changes to the current perfect store approach, consider the followi
 * Facilitator Savio Saldanha provided feedback after completion of part 2, suggesting dimensionality reduction, which significantly increased accuracy and reduced variance. He also recommended adding cross-validation to the train/test split approach.
   
 ##### Contact and Further Information
-For more information, please contact Mick Gram at mick.gram@redbull.com
+For more information, please contact Mick Gram at mickgram@hotmail.com
