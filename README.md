@@ -1,10 +1,10 @@
-### Capstone: Perfect Store Impact on Sales Volume
+### Capstone: Perfect Store Impact on Energy Drink Sales Volume in Convenience
 
 Author: Mick Gram:
 
 * Readme: [https://github.com/mickgram/Capstone/blob/main/README.md
-* Notebook: https://github.com/mickgram/Capstone/blob/main/cap_energy.ipynb
-* Data: https://github.com/mickgram/Capstone/tree/main/Data/Energy.csv
+* Notebook: https://github.com/mickgram/Capstone/blob/main/cenergy.ipynb
+* Data: https://github.com/mickgram/Capstone/tree/main/Data/energy.csv
 
 #### Disclaimer
 
@@ -31,13 +31,15 @@ This research will use actual data collected from audits as well as sales data t
 - What perfect store data points have a considerable impact?
 - How much is the impact of each of these data points on volume?
 
+These and similar actionable insights can be derived from the findings.
+
 #### Rationale
 
 FMCG companies have limited spend and resources for Perfect Store activities. The ability to make the right decisions can have an actualy impact on sales and hence be the difference between being profitable or caring a loss. Knowing how the cost of each activity can impact sales is critical. E.g does a it pay off to place a $500 cooler, focusing on adding more shelf space or improve brand messaging.
 
 #### Data Sources
 
-* 330 audits:
+* 392 audits:
    - Voids and Core SKU 
    - Shelf space
    - Cooler placement
@@ -56,7 +58,6 @@ FMCG companies have limited spend and resources for Perfect Store activities. Th
 * Models were evaluated by splitting data in training and testing datasets, and also performing cross validation of folds of the data, so ensure same results.
 * Prediction was done using the actual data for the 
 
-* 
 #### Findings to Business Question
 
 Through rigorous analysis using Linear Regression, Ridge, and Lasso models, our investigation aimed to pinpoint which perfect store elements substantially impact sales volume. Here are the insights drawn from each model:
